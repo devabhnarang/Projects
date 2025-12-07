@@ -12,5 +12,6 @@ Might make studapp repo public on demand.
 
 2. Data Analytics Project
    
-I have made a repo on this project . ( https://github.com/devabhnarang/Data_Analytics_App )
+I have made a repo on this project . ( https://github.com/devabhnarang/Data_Analytics_App ).
+
 Go Check it out and feel free to dm me regarding anything.
