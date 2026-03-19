@@ -15,3 +15,14 @@ Might make studapp repo public on demand.
 I have made a repo on this project . ( https://github.com/devabhnarang/Data_Analytics_App ).
 
 Go Check it out and feel free to dm me regarding anything.
+
+
+3. RAG APPLICATION
+A rag application made with python using vectors to solve real world problems
+
+
+
+
+4.TASTY PICK
+
+Mobile Application integrated with ai to find recipies for you.
